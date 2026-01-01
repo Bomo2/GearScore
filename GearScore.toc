@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: GearScore
+## Notes: Quickly and easily judge a player's level of Gear.
+## Version: 1.0
+## Author: Bomo
+## SavedVariables: GS_Settings
+
+Constants.lua
+GearScore.lua
