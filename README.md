@@ -14,8 +14,7 @@ This project is not a rewrite, but a focused cleanup and modernization of the ex
 
 ## Installation
 
-1. Download the GearScore.zip and dezip it, here's what's inside :
-    - `GearScore`
+1. Download [the GearScore.zip](https://github.com/Bomo2/GearScore/archive/refs/heads/main.zip) and dezip it.
 
 2. Place `GearScore` inside your `Interface/AddOns` directory.
 
