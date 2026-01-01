@@ -10,3 +10,16 @@ Original addon:
 https://github.com/Barsoomx/GearScoreLite
 
 This project is not a rewrite, but a focused cleanup and modernization of the existing GearScoreLite code.
+
+
+## Installation
+
+1. Download the GearScore.zip and dezip it, here's what's inside :
+    - `GearScore`
+
+2. Place `GearScore` inside your `Interface/AddOns` directory.
+
+    
+## TO-DO
+
+- Possible refactor of the codebase to clean up logic, improve maintainability, and make the addon slightly lighter
