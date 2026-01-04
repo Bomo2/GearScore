@@ -23,4 +23,4 @@ This project is not a rewrite, but a focused cleanup and modernization of the ex
     
 ## TO-DO
 
-- Possible refactor of the codebase to clean up logic, improve maintainability, and make the addon slightly lighter
+- ~~Possible refactor of the codebase to clean up logic, improve maintainability, and make the addon slightly lighter~~ (done)
